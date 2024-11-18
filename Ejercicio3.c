@@ -1,7 +1,8 @@
 #include <stdio.h>
 
-int main() {
-
+int main() 
+{
+    
     float dolares, pesos;
     const float tasaCambio = 11.96;
 
